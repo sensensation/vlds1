@@ -3,10 +3,10 @@
 ### Languages and Technologies:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=3776AB)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=092E20)
+![channels](https://img.shields.io/badge/-django_channels-090909?style=for-the-badge&logo=django_channels&logoColor=E9D54D)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=blue)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=2496ED)
-![channels](https://img.shields.io/badge/-django_channels-090909?style=for-the-badge&logo=django_channels&logoColor=E9D54D)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=FCC624)
 ###
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
